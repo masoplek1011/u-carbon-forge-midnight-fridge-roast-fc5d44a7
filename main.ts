@@ -8,7 +8,7 @@ if (!outDir) {
 }
 
 const line =
-  "After midnight my smart fridge locks its door, and the ice maker just keeps clinking like it's laughing at my empty glass.";
+  "After midnight my smart fridge locks its door, and the ice maker keeps spitting cubes at my empty glass like it's heckling me for showing up thirsty.";
 
 mkdirSync(outDir, { recursive: true });
 writeFileSync(join(outDir, "entry.txt"), line + "\n", "utf8");

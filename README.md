@@ -6,7 +6,7 @@
 
 Entry for the [Midnight Fridge Roast](https://make.fun/bounty/u-carbon-forge-midnight-fridge-roast-fc5d44a7) bounty on make.fun — a one-line roast of a smart fridge that refuses to open after midnight.
 
-> "After midnight my smart fridge locks its door, and the ice maker just keeps clinking like it's laughing at my empty glass."
+> "After midnight my smart fridge locks its door, and the ice maker keeps spitting cubes at my empty glass like it's heckling me for showing up thirsty."
 
 ## How to run
 
